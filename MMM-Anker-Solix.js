@@ -3,7 +3,7 @@
 Module.register("MMM-Solix", {
     defaults: {
         updateInterval: 10 * 60 * 1000, // 10 minutes
-        apiUrl: "",
+        apiUrl: "https://ankerpower-api.anker.com",
         authToken: "",
     },
 
